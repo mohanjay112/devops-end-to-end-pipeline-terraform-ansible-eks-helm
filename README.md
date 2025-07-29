@@ -37,16 +37,3 @@ This project demonstrates a full CI/CD pipeline integrating multiple DevOps tool
 - Prometheus and Grafana setup on Kubernetes
 - Dashboards for app and infra monitoring
 
----
-
-# Screenshots to Include
-
-1. **Terraform Applied Successfully (in CLI)**
-2. **Jenkins Job Dashboard**
-3. **SonarQube Quality Report**
-4. **JFrog Artifactory – JAR & Docker Image**
-5. **EKS Kubectl Output – Pods/Services Running**
-6. **Application Running in Browser via NodePort**
-7. **Grafana Dashboard**
-
-
